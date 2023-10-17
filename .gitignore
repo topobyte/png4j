@@ -1,10 +1,7 @@
-.settings
-.classpath
+bin
+build
+.gradle
 .project
-/site/
-build/
-/target/
-.idea
-.classes/
-priv/
-notingit/
+.classpath
+.settings
+*.swp
